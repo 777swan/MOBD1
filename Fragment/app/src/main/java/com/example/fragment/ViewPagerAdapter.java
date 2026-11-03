@@ -16,10 +16,12 @@ public class ViewPagerAdapter extends FragmentStateAdapter {
     @Override
     public Fragment createFragment(int position) {
         switch (position) {
+            case 0:
+                return new HomeFragment();
             case 1:
-                return new NotificationsFragment();
-            case 2:
                 return new CoursesFragment();
+            case 2:
+                return new NotificationsFragment();
             case 3:
                 return new ProfileFragment();
             default:

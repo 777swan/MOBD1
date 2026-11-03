@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/drawable_ic_image.xml.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/drawable/ic_image.xml"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/drawable_ic_comment.xml.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/drawable/ic_comment.xml"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/drawable_scoobcircle.jpg.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/drawable/scoobcircle.jpg"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/xml_backup_rules.xml.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/layout_fragment_courses.xml.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/layout/fragment_courses.xml"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/drawable_bg_like_badge.xml.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/drawable/bg_like_badge.xml"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/layout_item_post.xml.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/layout/item_post.xml"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/layout_fragment_home.xml.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.fragment.app-debug-36:/layout_fragment_profile.xml.flat",
+        "source": "com.example.fragment.app-main-38:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/drawable_bg_avatar_circle.xml.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/drawable/bg_avatar_circle.xml"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/drawable_ic_connect.xml.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/drawable/ic_connect.xml"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/drawable_ic_like.xml.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/drawable/ic_like.xml"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/drawable_bg_post_image.xml.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/drawable/bg_post_image.xml"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/layout_fragment_profile.xml.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/drawable_ic_courses.xml.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/drawable/ic_courses.xml"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/drawable_ic_home.xml.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/drawable_ic_share.xml.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/drawable_colors.png.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/drawable/colors.png"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/drawable_ic_search.xml.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/drawable_phoebe.jpeg.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/drawable/phoebe.jpeg"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/drawable_ic_bellcircle.xml.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/drawable/ic_bellcircle.xml"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/drawable_ic_more_horiz.xml.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/drawable/ic_more_horiz.xml"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/layout_activity_main.xml.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/layout_activity_login.xml.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/drawable_mm.png.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/drawable/mm.png"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/drawable_bg_input_rounded.xml.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/drawable/bg_input_rounded.xml"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/drawable_ic_notifications.xml.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/drawable/ic_notifications.xml"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/menu_menu_main.xml.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/drawable_ic_profile.xml.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/layout_fragment_notifications.xml.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-debug-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/jks/.gradle/daemon/9.6.0/com.example.fragment.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]

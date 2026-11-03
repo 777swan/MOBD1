@@ -49,4 +49,3 @@ public class HomeFragment extends Fragment {
         rv.setAdapter(new PostAdapter(posts));
     }
 }
-
